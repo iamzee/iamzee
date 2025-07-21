@@ -1,16 +1,14 @@
-## Hi there 👋
+Promises
 
-<!--
-**iamzee/iamzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+let myPromise = new Promise((resolve, reject) => {
+    resolve()
+})
+```
 
-Here are some ideas to get you started:
+```python
+for i in range(1,11):
+    print (i)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to declare a vaiable let x = 0 in the next code block 
